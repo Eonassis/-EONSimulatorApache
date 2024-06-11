@@ -1,6 +1,4 @@
-## Descrição da Demonstração para o SBRC
-A demonstração planejada para o Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC) apresenta o uso do simulador EON-Simulator para avaliação de desempenho em redes ópticas elásticas (EON) sob falhas em cascata.
-
+ 
 ## Equipamentos Necessários
 Para realizar a demonstração, os seguintes equipamentos são necessários:
 
